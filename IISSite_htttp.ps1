@@ -1,0 +1,1 @@
+New-IISSite -Name 'WebsiteTest' -PhysicalPath 'C:\inetpub\wwwroot' -BindingInformation "*:8080:"
