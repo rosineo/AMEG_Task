@@ -1,1 +1,1 @@
-New-Item -ItemType Directory C:\inetpub\wwwroot
+New-Item -ItemType Directory C:\inetpub\wwwroot\
